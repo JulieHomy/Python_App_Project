@@ -36,4 +36,3 @@ def yearly(station, year):
 
 if __name__ == "__main__":
     app.run(debug=True)
-
